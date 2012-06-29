@@ -74,6 +74,17 @@ If you believe that the issue is related to the DBMigrate plugin, you can
 If you believe that the issue is related to the ColdRoute plugin, you can
 [submit an issue at the ColdRoute project][12].
 
+## Related Screencasts
+
+This screencast is a part of a screencast series called [Basic CRUD in CFWheels][12].
+
+Here are the episodes in the series:
+
+  1. [Episode 1: "C" Is for "Create"][12]
+  2. [Episode 2: "R" Is for "Read"][13]
+  3. [Episode 3: "U" Is for "Update"][3]
+  4. [Episode 4: "D" Is for "Delete"][14]
+
 [1]: http://cfwheels.org/
 [2]: http://cfwheels.org/docs/chapter/filters
 [3]: http://cfwheels.org/screencasts/view/22
@@ -86,3 +97,6 @@ If you believe that the issue is related to the ColdRoute plugin, you can
 [10]: https://github.com/liquifusion/liquifusion-cfwheels-screencasts/issues
 [11]: https://github.com/talltroym/cfwheels-dbmigrate-plugin/issues
 [12]: https://github.com/dhumphreys/cfwheels-coldroute/issues
+[12]: http://cfwheels.org/screencasts/view/20
+[13]: http://cfwheels.org/screencasts/view/21
+[14]: http://cfwheels.org/screencasts/view/23
