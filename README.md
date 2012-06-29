@@ -14,7 +14,7 @@ your own.
 
 If you have trouble running any of the code in your environment, please [submit an issue][3].
 
-## No Contributions
+## Not Accepting Contributions
 
 To keep the code consistent with the screencasts, we will not be accepting pull requests.
 
