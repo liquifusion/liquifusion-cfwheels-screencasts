@@ -46,7 +46,7 @@ In `config/settings.cfm`, you'll also notice this line:
 This causes the CFWheels ORM to prepend the model name on any included tables while using find
 queries. We highly recommend using this setting in all of your CFWheels applications.
 
-See the chapter about [Configuration and Defaults][6] in the CFWheels documentation for more
+See the chapter about [Configuration and Defaults][5] in the CFWheels documentation for more
 information about the `useExpandedColumnAliases` setting.
 
 ## Issues
